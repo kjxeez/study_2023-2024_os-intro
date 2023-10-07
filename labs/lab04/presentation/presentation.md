@@ -32,6 +32,7 @@ header-includes:
 
 :::::::::::::: {.columns align=center}
 ::: {.column width="70%"}
+#### 
 
   * Акопян Изабелла Арменовна
   * Бизнес-информатика
