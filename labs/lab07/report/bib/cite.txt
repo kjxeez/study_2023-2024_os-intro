@@ -1,0 +1,17 @@
+@Online{
+  Title = {Лабораторная работа № 7. Элементы криптографии. Однократное гаммирование},
+  URL = {https://esystem.rudn.ru/pluginfile.php/2090421/mod_resource/content/2/007-lab_crypto-gamma.pdf},
+  Language = {},
+  numpages = {},
+  EPrintClass = {},
+  EPrintType = {}
+}
+
+@Online{
+  Title = {Однократное гаммирование},
+  URL = {https://studfile.net/preview/272674/page:7/},
+  Language = {},
+  numpages = {},
+  EPrintClass = {},
+  EPrintType = {}
+}
